@@ -33,6 +33,9 @@ body {
   word-wrap: break-word;
   word-break: break-all;
 }
+.del{
+  color: red;
+}
 
 .btn,
 .del,
